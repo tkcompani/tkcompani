@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @tkcompani
-- 👀 I’m interested in volleyball and video games.
-- 🌱 I’m currently learning how to build softwares.
-- 💞️ I’m looking to collaborate on creating softwares.
-- 📫 How to reach me is to contact me on +233246224769 or thomasamoadu877@gmail.com.
-- 😄 Pronouns:He
-- ⚡ Fun fact:His
+# Brothers Community Bot
+This is a telegram bot made for the brothers community organization on telegram.
 
-<!---
-tkcompani/tkcompani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Brothers International Community - About summary
+The brothers community is a friendly platform for all people around the world to join to help people and get helped from people.
+
+# Features
+This bot can:
+- Translate any other language to English language (as it is the general speaking)
+- Do some basic maths operations such as addition, subtraction, division and multiplication
+- Greet and welcome new members and members
+- Responds to user's messages or say questions
